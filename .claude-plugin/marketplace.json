@@ -1,12 +1,19 @@
 {
   "name": "wleefa",
   "description": "Wleefa team skills for Claude Code",
-  "owner": { "name": "Wleefa" },
+  "owner": {
+    "name": "Wleefa"
+  },
   "plugins": [
     {
       "name": "content-skill",
       "source": "./content-skill",
       "description": "Write, edit, or audit Wleefa copy in the Wleefa voice, with the no-ai-slop writing rules built in."
+    },
+    {
+      "name": "motion-skill",
+      "source": "./motion-skill",
+      "description": "Wleefa's Head of Motion Design: audit motion, demo options in the requester's session, ship the picked option to staging."
     }
   ]
 }

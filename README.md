@@ -5,6 +5,7 @@ Claude Code skills for the Wleefa team. Each skill is a folder at the root of th
 | Folder | Plugin | What it does |
 |---|---|---|
 | `content-skill` | `content-skill@wleefa` | Write, edit, or audit Wleefa copy in the Wleefa voice, with the no-ai-slop writing rules built in |
+| `motion-skill` | `motion-skill@wleefa` | Head of Motion Design: audit motion, demo options in the session, ship the picked option to staging |
 
 ## Install
 
@@ -34,5 +35,9 @@ Writers on claude.ai cannot pull from GitHub. Upload the skill's `SKILL.md` (for
 Give it three things: the channel, the audience category, and what the reader should do afterwards. Then ask for new copy, paste a draft to edit, or paste a draft to check. Every result ends with a reminder that a human must approve the content before it is published.
 
 The source of truth for the brand rules is the Wleefa Content Writer Guide deck (Google Slides, v1.0, September 2026). When the deck changes, update the SKILL.md and bump the version in `content-skill/.claude-plugin/plugin.json`.
+
+## Motion skill
+
+`motion-skill/skills/wleefa-motion/SKILL.md` holds the Wleefa motion feel (calm and premium), the motion tokens, the rules, and the demo-first process. In a session, `/wleefa-motion` invokes it, and Claude also picks it up when a request is about animation or interaction feel. It never ships motion the requester has not picked from a demo, and it logs every idea in `MOTION_LOG.md` in the website repo.
 
 Owner: Abdulrahman Javaid. Approval: the marketing lead.
