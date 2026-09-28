@@ -11,9 +11,9 @@
       "description": "Write, edit, or audit Wleefa copy in the Wleefa voice, with the no-ai-slop writing rules built in."
     },
     {
-      "name": "motion-skill",
-      "source": "./motion-skill",
-      "description": "Wleefa's Head of Motion Design: audit motion, demo options in the requester's session, ship the picked option to staging."
+      "name": "design-skill",
+      "source": "./design-skill",
+      "description": "Wleefa's Head of Design & Motion: review, find references, sketch layouts, demo motion options in the requester's session, ship the picked option to staging."
     }
   ]
 }

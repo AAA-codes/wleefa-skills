@@ -5,7 +5,7 @@ Claude Code skills for the Wleefa team. Each skill is a folder at the root of th
 | Folder | Plugin | What it does |
 |---|---|---|
 | `content-skill` | `content-skill@wleefa` | Write, edit, or audit Wleefa copy in the Wleefa voice, with the no-ai-slop writing rules built in |
-| `motion-skill` | `motion-skill@wleefa` | Head of Motion Design: audit motion, demo options in the session, ship the picked option to staging |
+| `design-skill` | `design-skill@wleefa` | Head of Design & Motion: review, find references, sketch layouts, demo motion, ship the picked option to staging |
 
 ## Install
 
@@ -36,8 +36,8 @@ Give it three things: the channel, the audience category, and what the reader sh
 
 The source of truth for the brand rules is the Wleefa Content Writer Guide deck (Google Slides, v1.0, September 2026). When the deck changes, update the SKILL.md and bump the version in `content-skill/.claude-plugin/plugin.json`.
 
-## Motion skill
+## Design skill
 
-`motion-skill/skills/wleefa-motion/SKILL.md` holds the Wleefa motion feel (calm and premium), the motion tokens, the rules, and the demo-first process. In a session, `/wleefa-motion` invokes it, and Claude also picks it up when a request is about animation or interaction feel. It never ships motion the requester has not picked from a demo, and it logs every idea in `MOTION_LOG.md` in the website repo. Approval: whoever called it picks the option.
+`design-skill/skills/wleefa-design/SKILL.md` holds the Wleefa look and feel (calm and premium), design and motion tokens, layout and motion rules, and six commands: review, inspire, sketch, demo, ship, refine. In a session, `/wleefa-design` invokes it, and Claude also picks it up for layout, visual or motion requests. It shows options in the requester's session and ships only the option the requester picks, logging every idea in `MOTION_LOG.md` in the website repo. It calls `/wleefa-content` for copy, `/redesign-existing-projects` for audits, and the Landingfolio MCP for references when connected.
 
 Owner: Abdulrahman Javaid. Content approval: the marketing lead.

@@ -1,0 +1,9 @@
+{
+  "name": "design-skill",
+  "version": "1.0.0",
+  "description": "Wleefa's Head of Design & Motion: review, find references, sketch layouts, demo motion options in the requester's session, ship the picked option to staging.",
+  "author": {
+    "name": "Abdulrahman Javaid"
+  },
+  "repository": "https://github.com/AAA-codes/wleefa-skills"
+}
