@@ -38,6 +38,6 @@ The source of truth for the brand rules is the Wleefa Content Writer Guide deck 
 
 ## Motion skill
 
-`motion-skill/skills/wleefa-motion/SKILL.md` holds the Wleefa motion feel (calm and premium), the motion tokens, the rules, and the demo-first process. In a session, `/wleefa-motion` invokes it, and Claude also picks it up when a request is about animation or interaction feel. It never ships motion the requester has not picked from a demo, and it logs every idea in `MOTION_LOG.md` in the website repo.
+`motion-skill/skills/wleefa-motion/SKILL.md` holds the Wleefa motion feel (calm and premium), the motion tokens, the rules, and the demo-first process. In a session, `/wleefa-motion` invokes it, and Claude also picks it up when a request is about animation or interaction feel. It never ships motion the requester has not picked from a demo, and it logs every idea in `MOTION_LOG.md` in the website repo. Approval: whoever called it picks the option.
 
-Owner: Abdulrahman Javaid. Approval: the marketing lead.
+Owner: Abdulrahman Javaid. Content approval: the marketing lead.
