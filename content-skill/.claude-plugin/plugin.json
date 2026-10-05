@@ -1,6 +1,6 @@
 {
   "name": "content-skill",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Write, edit, or audit Wleefa copy in the Wleefa voice, with the no-ai-slop writing rules built in.",
   "author": { "name": "Abdulrahman Javaid" },
   "repository": "https://github.com/AAA-codes/wleefa-skills"
