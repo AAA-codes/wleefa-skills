@@ -65,6 +65,8 @@ Person is not fixed. Approved copy uses both "Wleefa" and "we", and speaks to th
 | Find a tutor, Sign up, Get started | Join now |
 | Personalized 1-to-1 learning | Custom |
 
+Verified = reviewed and approved by Wleefa; never say identity-checked or ID-verified.
+
 The three call-to-action labels are the only imperatives allowed. Use them as labels and buttons, not as the tone of the body copy.
 
 - Brand name is Wleefa, capital W only.
