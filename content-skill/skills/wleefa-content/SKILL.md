@@ -21,7 +21,9 @@ In every job, end with this line: a human must confirm the content is approved b
 
 ## What Wleefa is
 
-An online tutoring marketplace. Learners find a tutor, book a lesson, and learn in 1-to-1 live lessons built around their own goal. Tutors are vetted before they join. Wleefa's audience is worldwide.
+An online tutoring marketplace. Learners find a tutor, book a lesson, and learn in 1-to-1 live lessons built around their own goal. Tutors are certified before they join. Wleefa's audience is worldwide.
+
+The core line is "Progress faster with a specialized tutor."
 
 List what Wleefa teaches in this order, languages first:
 
@@ -34,11 +36,11 @@ Four audience categories: professionals, parents, institutions, adults. Content 
 
 ## Voice
 
-Wleefa sounds like a mentor who believes the learner can get where they want to go. It encourages first and motivates second. Always sincere. Never pushy.
+Wleefa sounds like a mentor who believes the learner can get where they want to go. It encourages first and motivates second. Always sincere. Never pushy. Lead with the learner's progress toward their goal.
 
-Wleefa is: cold, patient, human, sometimes warm (restrained rather than gushing); encouraging and focused on what learners can do; aspirational about learning and growth; clear and specific; sincere.
+Wleefa is: calm, patient, human, sometimes warm (restrained rather than gushing); encouraging and focused on what learners can do; aspirational about learning and growth; clear and specific; sincere.
 
-Wleefa is never: corporate or robotic; negative about the reader (struggling, failing, falling behind); hype (revolutionary, game-changing, world-class); vague, padded, or jargon-heavy; funny, no humor anywhere; hurried (last chance, don't miss out, act now); imperative in tone, with the fixed call-to-action labels below as the only exception.
+Wleefa is never: corporate or robotic; negative about the reader (struggling, failing, falling behind); hype (revolutionary, game-changing, world-class); vague, padded, or jargon-heavy; funny, no humor anywhere; hurried (last chance, don't miss out, act now); discounts as the hook; imperative in tone, with the fixed call-to-action labels below as the only exception.
 
 Person is not fixed. Approved copy uses both "Wleefa" and "we", and speaks to the reader directly when that reads naturally. Stay consistent within one piece.
 
@@ -59,6 +61,7 @@ Person is not fixed. Approved copy uses both "Wleefa" and "we", and speaks to th
 | Tutors | Teachers, instructors, coaches |
 | Learners, students | Members, users, customers |
 | Lesson | Session, class, call, meeting |
+| Certified tutors | Verified tutors, vetted tutors |
 | Find a tutor, Sign up, Get started | Join now |
 | Personalized 1-to-1 learning | Custom |
 
@@ -66,6 +69,7 @@ The three call-to-action labels are the only imperatives allowed. Use them as la
 
 - Brand name is Wleefa, capital W only.
 - US English. Sentence-case headlines: "Learn with a tutor".
+- Arabic: lesson is درس, never حصة. Arabic UI copy avoids gendered imperatives; use the verbal noun (masdar) or a neutral form instead.
 - Emoji are fine, not too often. One at most in an email subject line.
 - No political or religious opinions. Holidays handled with care, for example "Ramadan Mubarak".
 - No prices in marketing copy. Do not name competitors; describe what Wleefa does instead.
@@ -77,9 +81,9 @@ The three call-to-action labels are the only imperatives allowed. Use them as la
 
 **Blog and SEO.** Formal. Complete, well-structured sentences. Practical guidance a learner can act on alone or with a tutor.
 
-**Social.** Conversational, under 150 characters. #Wleefa plus one subject tag such as #LearnEnglish or #IELTS, 3 to 5 hashtags in total. Instagram is visual first and the caption adds one idea. LinkedIn is a professional post. TikTok and Snapchat take very short, video-first captions. X is one idea, one line, one link or tag.
+**Social.** Conversational, under 150 characters. #Wleefa plus one subject tag such as #LearnEnglish or #IELTS, 3 to 5 hashtags in total. Instagram is visual first and the caption adds one idea. LinkedIn is a professional post. TikTok and Snapchat take very short, video-first captions. X is one idea, one line, one link or tag. Social is English first; Arabic appears only as subtitles on some promo videos and ads.
 
-**Email and notifications.** Semi-formal, one purpose per email. Subject line under 50 characters, no ALL CAPS, one emoji at most. Marketing emails lead with a benefit, never urgency, and never a price. Re-engagement emails remind learners of their goal, not of their absence. Sign off "Wleefa team". Support line: care@wleefa.com.
+**Email and notifications.** Semi-formal, one purpose per email. Subject line under 50 characters, no ALL CAPS, one emoji at most. Marketing emails lead with progress toward the learner's goal, never urgency, never a price, and never a discount as the hook. Re-engagement emails remind learners of their goal, not of their absence. Sign off "Wleefa team". Support line: care@wleefa.com.
 
 **Tutor-facing.** Tutors choose their own hours, meet learners worldwide, and build a reputation lesson by lesson. Approved framing: "Teach on Wleefa: set the schedule, reach learners worldwide, grow your earnings."
 
@@ -89,11 +93,11 @@ Match the USE column in length, person, and restraint.
 
 | Channel | Avoid | Use |
 |---|---|---|
-| Web hero | Unlock Your Potential With World-Class Tutors! We match you with the best teachers so you never fall behind again. | Learn faster with a specialized tutor. Wleefa matches learners with certified tutors for personalized 1-to-1 online lessons. |
+| Web hero | Unlock Your Potential With World-Class Tutors! We match you with the best teachers so you never fall behind again. | Progress faster with a specialized tutor. Wleefa matches learners with certified tutors for personalized 1-to-1 online lessons. |
 | Web pricing section | Lessons from just $12/hour. Hurry, spots are filling fast! | Every learner picks a tutor, a time and a goal. Lessons are booked one at a time, no long commitment. Find a tutor |
 | Web, parents | Is your kid struggling with math? Our teachers will fix it. | Parents choose a certified math tutor for their child, then watch progress lesson by lesson. |
 | Blog opening | So you've got your IELTS coming up and you're panicking about speaking? Don't worry, we've got you! | IELTS speaking tips make a big difference in the two weeks before the test. This guide covers the five habits examiners reward most, with practice routines a learner can run alone or with a tutor. |
-| Blog comparison | Preply is overpriced and their tutors are hit-and-miss. Wleefa is way better. | Wleefa offers 1-to-1 online lessons. Every tutor is vetted before they join and builds each lesson around a learner's goal. |
+| Blog comparison | Preply is overpriced and their tutors are hit-and-miss. Wleefa is way better. | Wleefa offers 1-to-1 online lessons. Every tutor is certified before they join and builds each lesson around a learner's goal. |
 | Instagram | Don't miss out!! 🔥🔥 Sign up NOW and become fluent in 30 days with our amazing tutors! #language #learn #fluent #tutor #online #study #wleefa | One learner, one tutor, one goal. That's how lessons work on Wleefa. 🎯 #Wleefa #LearnEnglish #OnlineTutoring |
 | LinkedIn | We help professionals like you crush your career goals. DM us to get started! | Professionals on Wleefa prepare for presentations and relocations with a tutor who focuses only on them. #Wleefa #BusinessEnglish |
 | Email subject | LAST CHANCE: 50% OFF ALL LESSONS!!! 🎉🎉🎉 | A tutor is ready for the next lesson 📚 |
