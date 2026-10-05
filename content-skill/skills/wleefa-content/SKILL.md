@@ -21,7 +21,7 @@ In every job, end with this line: a human must confirm the content is approved b
 
 ## What Wleefa is
 
-An online tutoring marketplace. Learners find a tutor, book a lesson, and learn in 1-to-1 live lessons built around their own goal. Tutors are certified before they join. Wleefa's audience is worldwide.
+An online tutoring marketplace. Learners find a tutor, book a lesson, and learn in 1-to-1 live lessons built around their own goal. Tutors are verified before they join. Wleefa's audience is worldwide.
 
 The core line is "Progress faster with a specialized tutor."
 
@@ -61,7 +61,7 @@ Person is not fixed. Approved copy uses both "Wleefa" and "we", and speaks to th
 | Tutors | Teachers, instructors, coaches |
 | Learners, students | Members, users, customers |
 | Lesson | Session, class, call, meeting |
-| Certified tutors | Verified tutors, vetted tutors |
+| Verified tutors | Certified tutors, vetted tutors |
 | Find a tutor, Sign up, Get started | Join now |
 | Personalized 1-to-1 learning | Custom |
 
@@ -93,16 +93,16 @@ Match the USE column in length, person, and restraint.
 
 | Channel | Avoid | Use |
 |---|---|---|
-| Web hero | Unlock Your Potential With World-Class Tutors! We match you with the best teachers so you never fall behind again. | Progress faster with a specialized tutor. Wleefa matches learners with certified tutors for personalized 1-to-1 online lessons. |
+| Web hero | Unlock Your Potential With World-Class Tutors! We match you with the best teachers so you never fall behind again. | Progress faster with a specialized tutor. Wleefa matches learners with verified tutors for personalized 1-to-1 online lessons. |
 | Web pricing section | Lessons from just $12/hour. Hurry, spots are filling fast! | Every learner picks a tutor, a time and a goal. Lessons are booked one at a time, no long commitment. Find a tutor |
-| Web, parents | Is your kid struggling with math? Our teachers will fix it. | Parents choose a certified math tutor for their child, then watch progress lesson by lesson. |
+| Web, parents | Is your kid struggling with math? Our teachers will fix it. | Parents choose a verified math tutor for their child, then watch progress lesson by lesson. |
 | Blog opening | So you've got your IELTS coming up and you're panicking about speaking? Don't worry, we've got you! | IELTS speaking tips make a big difference in the two weeks before the test. This guide covers the five habits examiners reward most, with practice routines a learner can run alone or with a tutor. |
-| Blog comparison | Preply is overpriced and their tutors are hit-and-miss. Wleefa is way better. | Wleefa offers 1-to-1 online lessons. Every tutor is certified before they join and builds each lesson around a learner's goal. |
+| Blog comparison | Preply is overpriced and their tutors are hit-and-miss. Wleefa is way better. | Wleefa offers 1-to-1 online lessons. Every tutor is verified before they join and builds each lesson around a learner's goal. |
 | Instagram | Don't miss out!! 🔥🔥 Sign up NOW and become fluent in 30 days with our amazing tutors! #language #learn #fluent #tutor #online #study #wleefa | One learner, one tutor, one goal. That's how lessons work on Wleefa. 🎯 #Wleefa #LearnEnglish #OnlineTutoring |
 | LinkedIn | We help professionals like you crush your career goals. DM us to get started! | Professionals on Wleefa prepare for presentations and relocations with a tutor who focuses only on them. #Wleefa #BusinessEnglish |
 | Email subject | LAST CHANCE: 50% OFF ALL LESSONS!!! 🎉🎉🎉 | A tutor is ready for the next lesson 📚 |
 | Re-engagement email | We noticed you haven't booked in a while. Don't let your progress slip away! | The goal can still be updated, and so can the tutors. Wleefa's tutors pick up exactly where the last lesson ended. |
-| Welcome email | Hey! Welcome to the family! We're so excited you're here. Let's get you started on your journey! | Welcome to Wleefa. We're excited to have you in Wleefa: personalized 1-on-1 lessons, Human to Human, certified tutors. Simple steps: browse certified tutors, pick one whose profile matches the goal, and book a first lesson. Satisfaction guaranteed. Questions? care@wleefa.com. Wleefa team |
+| Welcome email | Hey! Welcome to the family! We're so excited you're here. Let's get you started on your journey! | Welcome to Wleefa. We're excited to have you in Wleefa: personalized 1-on-1 lessons, Human to Human, verified tutors. Simple steps: browse verified tutors, pick one whose profile matches the goal, and book a first lesson. Satisfaction guaranteed. Questions? care@wleefa.com. Wleefa team |
 | Tutor recruiting | You'll love teaching with us! Sign up today and start earning big. | Tutors on Wleefa choose their own hours, meet learners, and build a reputation lesson by lesson. Teach on Wleefa: set the schedule, reach learners worldwide, grow your earnings. |
 
 ## Writing rules (no-ai-slop)
