@@ -7,7 +7,7 @@ description: Write, edit, or audit any Wleefa copy in the Wleefa voice (landing 
 
 Every piece of Wleefa copy goes through this skill, whatever the channel. First apply the Wleefa rules (what Wleefa is, how it sounds, what each channel needs). Then apply the writing rules at the end of this file, which remove AI patterns. Then run the check before returning anything.
 
-The source of truth is the Wleefa Content Writer Guide (Google Slides, version 1.0, September 2026, owner Abdulrahman Javaid). When this file and the deck disagree, the deck wins and this file needs updating.
+The source of truth is the Wleefa Content Writer Guide (Google Slides in the Marketing folder, owner Abdulrahman Javaid), as it reads on 6 October 2026. When this file and the deck disagree, the deck wins and this file needs updating.
 
 ## Three jobs
 
@@ -19,11 +19,11 @@ The source of truth is the Wleefa Content Writer Guide (Google Slides, version 1
 
 In every job, end with this line: a human must confirm the content is approved before it is published.
 
+When a rule and a writer's instinct disagree, the rule wins, unless approved by marketing lead. When the guide is silent, ask the marketing lead before publishing. (The marketing lead is the Wleefa CMO.)
+
 ## What Wleefa is
 
-An online tutoring marketplace. Learners find a tutor, book a lesson, and learn in 1-to-1 live lessons built around their own goal. Tutors are verified before they join. Wleefa's audience is worldwide.
-
-The core line is "Progress faster with a specialized tutor."
+An online tutoring marketplace. Learners find a tutor, book a lesson, and learn in 1-to-1 live lessons built around their own goal. Tutors are verified before they join. Wleefa's audience is worldwide. Core line: Progress faster with a specialized tutor.
 
 List what Wleefa teaches in this order, languages first:
 
@@ -36,11 +36,26 @@ Four audience categories: professionals, parents, institutions, adults. Content 
 
 ## Voice
 
-Wleefa sounds like a mentor who believes the learner can get where they want to go. It encourages first and motivates second. Always sincere. Never pushy. Lead with the learner's progress toward their goal.
+Wleefa sounds like a mentor who believes the learner can get where they want to go. It encourages first and motivates second. Always sincere. Never ever pushy. Lead with the learner's progress toward their goal.
 
-Wleefa is: calm, patient, human, sometimes warm (restrained rather than gushing); encouraging and focused on what learners can do; aspirational about learning and growth; clear and specific; sincere.
+Wleefa is:
 
-Wleefa is never: corporate or robotic; negative about the reader (struggling, failing, falling behind); hype (revolutionary, game-changing, world-class); vague, padded, or jargon-heavy; funny, no humor anywhere; hurried (last chance, don't miss out, act now); discounts as the hook; imperative in tone, with the fixed call-to-action labels below as the only exception.
+- Calm, patient, human; sometimes warm (restrained rather than gushing)
+- Encouraging: focused on what learners can do
+- Aspirational: learning and growth
+- Clear and specific
+- Sincere
+
+Wleefa is never:
+
+- Corporate, robotic
+- Negative: struggling, failing, falling behind
+- Hype: revolutionary, game-changing, world-class
+- Vague, padded, jargon-heavy
+- Funny. Wleefa does not use humor, anywhere.
+- Hurry: last chance, don't miss out, act now
+- Imperative tone (the fixed call-to-action labels below are the only exception)
+- Discounts as the hook
 
 Person is not fixed. Approved copy uses both "Wleefa" and "we", and speaks to the reader directly when that reads naturally. Stay consistent within one piece.
 
@@ -50,7 +65,7 @@ Person is not fixed. Approved copy uses both "Wleefa" and "we", and speaks to th
 |---|---|---|
 | Website pages | Semi-formal | No slang. Polished but human. |
 | Blog and SEO articles | Formal | Complete sentences. Well structured. |
-| Social media | Conversational | Short sentences. Slang is fine. Spoken, current, follows trends. |
+| Social media | Conversational | Short sentences. Slang is fine. Spoken language, current trends. English first; Arabic only as subtitles on some promo videos and ads. |
 | Emails and notifications | Semi-formal | Friendly, direct, no filler. |
 | Tutor-facing content | Semi-formal | Professional and respectful. Tutors are partners, not staff. |
 
@@ -60,7 +75,7 @@ Person is not fixed. Approved copy uses both "Wleefa" and "we", and speaks to th
 |---|---|
 | Tutors | Teachers, instructors, coaches |
 | Learners, students | Members, users, customers |
-| Lesson | Session, class, call, meeting |
+| Lesson (Arabic: درس, never حصة) | Session, class, call, meeting |
 | Verified tutors | Certified tutors, vetted tutors |
 | Find a tutor, Sign up, Get started | Join now |
 | Personalized 1-to-1 learning | Custom |
@@ -75,7 +90,6 @@ The three call-to-action labels are the only imperatives allowed. Use them as la
 - Emoji are fine, not too often. One at most in an email subject line.
 - No political or religious opinions. Holidays handled with care, for example "Ramadan Mubarak".
 - No prices in marketing copy. Do not name competitors; describe what Wleefa does instead.
-- "Satisfaction guaranteed" is the one approved guarantee phrase. Do not invent others.
 
 ## Channel rules
 
@@ -85,7 +99,7 @@ The three call-to-action labels are the only imperatives allowed. Use them as la
 
 **Social.** Conversational, under 150 characters. #Wleefa plus one subject tag such as #LearnEnglish or #IELTS, 3 to 5 hashtags in total. Instagram is visual first and the caption adds one idea. LinkedIn is a professional post. TikTok and Snapchat take very short, video-first captions. X is one idea, one line, one link or tag. Social is English first; Arabic appears only as subtitles on some promo videos and ads.
 
-**Email and notifications.** Semi-formal, one purpose per email. Subject line under 50 characters, no ALL CAPS, one emoji at most. Marketing emails lead with progress toward the learner's goal, never urgency, never a price, and never a discount as the hook. Re-engagement emails remind learners of their goal, not of their absence. Sign off "Wleefa team". Support line: care@wleefa.com.
+**Email and notifications.** Semi-formal, one purpose per email. Subject line under 50 characters, no ALL CAPS, one emoji at most. Marketing: lead with progress toward the learner's goal, never urgency. No prices, no discounts as the hook. Re-engagement emails remind learners of their goal, not of their absence. Sign off "Wleefa team". Support line: care@wleefa.com.
 
 **Tutor-facing.** Tutors choose their own hours, meet learners worldwide, and build a reputation lesson by lesson. Approved framing: "Teach on Wleefa: set the schedule, reach learners worldwide, grow your earnings."
 
@@ -104,8 +118,8 @@ Match the USE column in length, person, and restraint.
 | LinkedIn | We help professionals like you crush your career goals. DM us to get started! | Professionals on Wleefa prepare for presentations and relocations with a tutor who focuses only on them. #Wleefa #BusinessEnglish |
 | Email subject | LAST CHANCE: 50% OFF ALL LESSONS!!! 🎉🎉🎉 | A tutor is ready for the next lesson 📚 |
 | Re-engagement email | We noticed you haven't booked in a while. Don't let your progress slip away! | The goal can still be updated, and so can the tutors. Wleefa's tutors pick up exactly where the last lesson ended. |
-| Welcome email | Hey! Welcome to the family! We're so excited you're here. Let's get you started on your journey! | Welcome to Wleefa. We're excited to have you in Wleefa: personalized 1-on-1 lessons, Human to Human, verified tutors. Simple steps: browse verified tutors, pick one whose profile matches the goal, and book a first lesson. Satisfaction guaranteed. Questions? care@wleefa.com. Wleefa team |
-| Tutor recruiting | You'll love teaching with us! Sign up today and start earning big. | Tutors on Wleefa choose their own hours, meet learners, and build a reputation lesson by lesson. Teach on Wleefa: set the schedule, reach learners worldwide, grow your earnings. |
+| Welcome email | Hey! Welcome to the family! We're so excited you're here. Let's get you started on your journey! | Welcome to Wleefa. We're excited to have you in Wleefa, personalized 1-on-1 lessons, Human to Human, verified tutors. Simple steps: browse verified tutors, pick one whose profile matches the goal, and book a first lesson. Questions? care@wleefa.com Wleefa team |
+| Tutor recruiting | You'll love teaching with us! Sign up today and start earning big. Join our team and make money teaching online! | Tutors on Wleefa choose their own hours, meet learners, and build a reputation lesson by lesson. Teach on Wleefa: set the schedule, reach learners worldwide, grow your earnings. |
 
 ## Writing rules (no-ai-slop)
 
@@ -134,7 +148,7 @@ Patterns to cut:
 
 1. Channel identified and formality matches the table.
 2. Terms right: tutors, learners or students, lesson, one of the three CTA labels.
-3. Body copy free of imperative tone, hurry words, hype, humor, negative framing, prices, competitor names, and invented guarantees.
+3. Body copy free of imperative tone, hurry words, hype, humor, negative framing, prices, discounts as the hook, competitor names, and invented guarantees.
 4. Wleefa with capital W, US English, sentence-case headlines, person consistent within the piece.
 5. Social under 150 characters with #Wleefa plus a subject tag; email subject under 50 characters with one purpose and "Wleefa team".
 6. Banned words, filler, and every pattern above are gone; the piece ends on a concrete point.
