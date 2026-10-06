@@ -19,9 +19,11 @@ The source of truth is the Wleefa Content Writer Guide (Google Slides in the Mar
 
 In every job, end with this line: a human must confirm the content is approved before it is published.
 
+When a rule and a writer's instinct disagree, the rule wins, unless approved by marketing lead. When the guide is silent, ask the marketing lead before publishing. (The marketing lead is the Wleefa CMO.)
+
 ## What Wleefa is
 
-An online tutoring marketplace. Learners find a tutor, book a lesson, and learn in 1-to-1 live lessons built around their own goal. Tutors are verified before they join. Wleefa target audience exists worldwide. Core line: Progress faster with a specialized tutor.
+An online tutoring marketplace. Learners find a tutor, book a lesson, and learn in 1-to-1 live lessons built around their own goal. Tutors are verified before they join. Wleefa's audience is worldwide. Core line: Progress faster with a specialized tutor.
 
 List what Wleefa teaches in this order, languages first:
 
@@ -75,7 +77,7 @@ Person is not fixed. Approved copy uses both "Wleefa" and "we", and speaks to th
 | Learners, students | Members, users, customers |
 | Lesson (Arabic: درس, never حصة) | Session, class, call, meeting |
 | Verified tutors | Certified tutors, vetted tutors |
-| Find a tutor, Sign up, get started | Join now |
+| Find a tutor, Sign up, Get started | Join now |
 | Personalized 1-to-1 learning | Custom |
 
 Verified = reviewed and approved by Wleefa; never say identity-checked or ID-verified.
@@ -88,7 +90,6 @@ The three call-to-action labels are the only imperatives allowed. Use them as la
 - Emoji are fine, not too often. One at most in an email subject line.
 - No political or religious opinions. Holidays handled with care, for example "Ramadan Mubarak".
 - No prices in marketing copy. Do not name competitors; describe what Wleefa does instead.
-- "Satisfaction guaranteed" is the one approved guarantee phrase. Do not invent others.
 
 ## Channel rules
 
@@ -111,13 +112,13 @@ Match the USE column in length, person, and restraint.
 | Web hero | Unlock Your Potential With World-Class Tutors! We match you with the best teachers so you never fall behind again. | Progress faster with a specialized tutor. Wleefa matches learners with verified tutors for personalized 1-to-1 online lessons. |
 | Web pricing section | Lessons from just $12/hour. Hurry, spots are filling fast! | Every learner picks a tutor, a time and a goal. Lessons are booked one at a time, no long commitment. Find a tutor |
 | Web, parents | Is your kid struggling with math? Our teachers will fix it. | Parents choose a verified math tutor for their child, then watch progress lesson by lesson. |
-| Blog opening | So you've got your IELTS coming up and you're panicking about speaking? Don't worry, we've got you! | IELTS speaking tips make big difference in the two weeks before the test. This guide covers the five habits examiners reward most, with practice routines a learner can run alone or with a tutor. |
+| Blog opening | So you've got your IELTS coming up and you're panicking about speaking? Don't worry, we've got you! | IELTS speaking tips make a big difference in the two weeks before the test. This guide covers the five habits examiners reward most, with practice routines a learner can run alone or with a tutor. |
 | Blog comparison | Preply is overpriced and their tutors are hit-and-miss. Wleefa is way better. | Wleefa offers 1-to-1 online lessons. Every tutor is verified before they join and builds each lesson around a learner's goal. |
 | Instagram | Don't miss out!! 🔥🔥 Sign up NOW and become fluent in 30 days with our amazing tutors! #language #learn #fluent #tutor #online #study #wleefa | One learner, one tutor, one goal. That's how lessons work on Wleefa. 🎯 #Wleefa #LearnEnglish #OnlineTutoring |
 | LinkedIn | We help professionals like you crush your career goals. DM us to get started! | Professionals on Wleefa prepare for presentations and relocations with a tutor who focuses only on them. #Wleefa #BusinessEnglish |
 | Email subject | LAST CHANCE: 50% OFF ALL LESSONS!!! 🎉🎉🎉 | A tutor is ready for the next lesson 📚 |
-| Re-engagement email | We noticed you haven't booked in a while. Don't let your progress slip away! | The goal can still be updated, and so are the tutors. Wleefa's tutors pick up exactly where the last lesson ended. |
-| Welcome email | Hey! Welcome to the family! We're so excited you're here. Let's get you started on your journey! | Welcome to Wleefa. We're excited to have you in Wleefa, a personalized 1-on-1 lessons, Human to Human, verified tutors. Simple steps: browse verified tutors, pick one whose profile matches the goal, and book a first lesson. Questions? care@wleefa.com Wleefa team |
+| Re-engagement email | We noticed you haven't booked in a while. Don't let your progress slip away! | The goal can still be updated, and so can the tutors. Wleefa's tutors pick up exactly where the last lesson ended. |
+| Welcome email | Hey! Welcome to the family! We're so excited you're here. Let's get you started on your journey! | Welcome to Wleefa. We're excited to have you in Wleefa, personalized 1-on-1 lessons, Human to Human, verified tutors. Simple steps: browse verified tutors, pick one whose profile matches the goal, and book a first lesson. Questions? care@wleefa.com Wleefa team |
 | Tutor recruiting | You'll love teaching with us! Sign up today and start earning big. Join our team and make money teaching online! | Tutors on Wleefa choose their own hours, meet learners, and build a reputation lesson by lesson. Teach on Wleefa: set the schedule, reach learners worldwide, grow your earnings. |
 
 ## Writing rules (no-ai-slop)
@@ -147,7 +148,7 @@ Patterns to cut:
 
 1. Channel identified and formality matches the table.
 2. Terms right: tutors, learners or students, lesson, one of the three CTA labels.
-3. Body copy free of imperative tone, hurry words, hype, humor, negative framing, prices, competitor names, and invented guarantees.
+3. Body copy free of imperative tone, hurry words, hype, humor, negative framing, prices, discounts as the hook, competitor names, and invented guarantees.
 4. Wleefa with capital W, US English, sentence-case headlines, person consistent within the piece.
 5. Social under 150 characters with #Wleefa plus a subject tag; email subject under 50 characters with one purpose and "Wleefa team".
 6. Banned words, filler, and every pattern above are gone; the piece ends on a concrete point.
