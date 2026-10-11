@@ -38,7 +38,7 @@ Colours (from the hero block; reuse, don't invent):
 
 | Token | Hex | Role |
 |---|---|---|
-| `--wlf-ink` | `#1a2340` | headings, dark button hover |
+| `--wlf-ink` | `#1a2340` | **legacy navy: don't use for text.** Headings and main text are black `#1D1D1F` (white `#F5F5F7` in dark mode), Abdulrahman, 3 Oct 2026 |
 | `--wlf-body` | `#4a5670` | body text |
 | `--wlf-action` | `#3e5e8a` | primary button, the one accent |
 | `--wlf-blue` | `#577cb2` | links, focus ring, typed text |
@@ -49,7 +49,7 @@ Colours (from the hero block; reuse, don't invent):
 
 Type: Plus Jakarta Sans for English (headings Bold, UI 600), Alyamama for Arabic. Headlines `letter-spacing: -0.025em`, `line-height` about 1.05, `text-wrap: balance`. Body `line-height` 1.5 to 1.65, at most 65 characters wide. No letter-spacing, uppercase or italic on Arabic.
 
-Layout: max width 1440px; section gaps `clamp(3rem, 8vw, 6rem)`; side padding 16px phone, 40px tablet, 80px desktop; one radius system (999px buttons, one card radius); tap targets at least 44px; AA contrast (4.5:1) on text and buttons.
+Layout: one column, the hero's (see Layout rules); section gaps `clamp(3rem, 8vw, 6rem)`; one radius system (999px buttons, one card radius); tap targets at least 44px; AA contrast (4.5:1) on text and buttons.
 
 Motion (plain CSS custom properties; based on the transitions.dev scale, bounce removed):
 
@@ -84,6 +84,7 @@ Scale no lower than 0.96. Pick a token by what the motion does, not by the neare
 
 ## Layout rules
 
+- **One column, the hero's (Abdulrahman, 11 Oct 2026):** the homepage hero is the reference for every left and right edge, on every page. Laptops and desktops: at most 1280px wide with 80px sides (`max-width: 1440px; padding-inline: 80px`, so 80–1360 at 1440). Tablets (768-1023): 620px, centred (`padding-inline: max(40px, calc((100% - 620px) / 2))`). Phones: 16px sides. Every section, the footer's content, Research and the legal back bar sit in it. Exceptions, on purpose: the header pill is shorter than the hero (his design choice; don't widen it); reading text (legal pages, research articles) stays a narrow centred column; full-width bands (footer, guarantee band) keep their backgrounds edge to edge while their content follows the column. Before a PR, measure each section's edges against the hero at 1440, 1024, 768 and 390.
 - **Hero:** headline at most 3 lines (aim for 2), lead at most 20 words, at most 4 text elements, one primary CTA, fully readable on a small laptop without scrolling. No trust strip or stats inside the hero.
 - **Header:** one line, 64-72px tall, Sign in outlined, language switch visible.
 - **Every section has one job:** hook, proof, educate or convert. The page ends on one clear CTA plus a trust cue.
