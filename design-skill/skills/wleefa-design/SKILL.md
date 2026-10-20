@@ -85,7 +85,7 @@ Scale no lower than 0.96. Pick a token by what the motion does, not by the neare
 ## Layout rules
 
 - **One column, the hero's (Abdulrahman, 11 Oct 2026):** the homepage hero is the reference for every left and right edge, on every page. Laptops and desktops: at most 1280px wide with 80px sides (`max-width: 1440px; padding-inline: 80px`, so 80–1360 at 1440). Tablets (768-1023): 620px, centred (`padding-inline: max(40px, calc((100% - 620px) / 2))`). Phones: 16px sides. Every section, the footer's content, Research and the legal back bar sit in it. Exceptions, on purpose: the header pill is shorter than the hero (his design choice; don't widen it); reading text (legal pages, research articles) stays a narrow centred column; full-width bands (footer, guarantee band) keep their backgrounds edge to edge while their content follows the column. Before a PR, measure each section's edges against the hero at 1440, 1024, 768 and 390.
-- **Page top gap, the hero's (Abdulrahman, 20 Oct 2026):** on every page, the first content (a hero, a page label like "Careers", or a page title) starts the same distance below the header as the homepage hero's content does on /en/. One shared token, never a per-page number: `--wlf-page-top` = **72px** on laptops and desktops (≥1024), **32px** on tablets (768-1023), **20px** on phones (<768), measured from the header's bottom edge to the top of the first visible content (the hero's own top padding today). The hero uses the token too, so changing it moves every page together. Pages with their own bar (the legal pages' back bar) measure from that bar.
+- **Page top gap, the hero's (Abdulrahman, 20 Oct 2026):** on every page, the first content (a hero, a page label like "Careers", or a page title) starts the same distance below the header as the homepage hero's content does on /en/. One shared token, never a per-page number: `--wlf-hero-top` in tokens.css = **72px** on laptops and desktops (≥1024), **32px** on tablets (768-1023), **20px** on phones (<768), applied below the header (strip included); with the 12px header strip, content starts **84 / 44 / 32px below the header pill** at 1440 / 768 / 390. The homepage hero and Careers use it (PR #76), so changing it moves every page together. Pages with their own bar (the legal pages' back bar) measure from that bar.
 - **Hero:** headline at most 3 lines (aim for 2), lead at most 20 words, at most 4 text elements, one primary CTA, fully readable on a small laptop without scrolling. No trust strip or stats inside the hero.
 - **Header:** one line, 64-72px tall, Sign in outlined, language switch visible.
 - **Every section has one job:** hook, proof, educate or convert. The page ends on one clear CTA plus a trust cue.
@@ -137,7 +137,7 @@ Record every idea in `MOTION_LOG.md` at the root of the wleefa website repo (cre
 - [ ] Reduced motion: no movement, no loops, content complete.
 - [ ] No layout shift; content visible without JS; focus visible at once.
 - [ ] Checked at 375 and 1440 wide; tap targets at least 44px; AA contrast.
-- [ ] Edges match the hero column (1440, 1024, 768, 390), and the **top gap matches the homepage** (header bottom → first content = `--wlf-page-top`: 72 / 32 / 20) at the same widths.
+- [ ] Edges match the hero column (1440, 1024, 768, 390), and the **top gap matches the homepage** (`--wlf-hero-top`: 84 / 44 / 32px from the header pill at 1440 / 768 / 390) at the same widths.
 - [ ] `RELEASE_NOTES.md` and `MOTION_LOG.md` updated.
 
 ## Known issues (first review, 28 Sep 2026)
