@@ -81,6 +81,7 @@ Scale no lower than 0.96. Pick a token by what the motion does, not by the neare
 8. **Entrances run once,** triggered by IntersectionObserver (or `animation-timeline: view()`), never a scroll listener. Content is visible without JS.
 9. **No layout shift:** animate from the final box. Targets: LCP under 2.5s, INP under 200ms, CLS under 0.1, 60fps on a mid-range phone.
 10. **Focus is visible at once,** never animated away. `backdrop-filter` blur only on fixed elements.
+11. **Masks never cut a letter** (rulebook 4.16). A box that clips text keeps descender room below (`padding-bottom: 0.15em; margin-bottom: -0.15em`, more under line-height 1.1) and ascender room above when line-height is under 1, or drops the clip once the reveal ends. Clip only the axis the motion uses: `overflow-x: visible; overflow-y: clip` for a vertical reveal.
 
 ## Layout rules
 
@@ -135,6 +136,7 @@ Record every idea in `MOTION_LOG.md` at the root of the wleefa website repo (cre
 - [ ] Press feels instant on a phone; hover is behind `(hover: hover)`.
 - [ ] Arabic (`dir="rtl"`): layout and motion mirrored, no transform overridden on hover.
 - [ ] Reduced motion: no movement, no loops, content complete.
+- [ ] No clipped letters: words with g, j, p, q, y and tall capitals checked inside every mask at 1440, 1024, 768 and 390, during and after the motion, light and dark.
 - [ ] No layout shift; content visible without JS; focus visible at once.
 - [ ] Checked at 375 and 1440 wide; tap targets at least 44px; AA contrast.
 - [ ] Edges match the hero column (1440, 1024, 768, 390), and the **top gap matches the homepage** (`--wlf-page-top`: 84 / 44 / 32px from the header pill at 1440 / 768 / 390) at the same widths.
